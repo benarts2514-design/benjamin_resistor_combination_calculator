@@ -24,7 +24,7 @@ def main():
     # Main program
     resistors = []  # at least one list to store values
     
-    print("=== Resistor Combination Calculator ===")
+    print("===BNRS Resistor Combination Calculator ===")
     
     # Get number of resistors with error handling
     try:
